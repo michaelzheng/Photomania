@@ -1,0 +1,203 @@
+TPhotomania
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/Info.plist Photomania/Photomania-Info.plist
+cProcessPCH /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/PrecompiledHeaders/Photomania-Prefix-gkwvlcktlvacqocyajahcfbduryt/Photomania-Prefix.pch.pth Photomania/Photomania-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FC697120000000000244490
+t1338414866
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FC697160000000000353830
+t1338414870
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FC697240000000000905E40
+t1338414884
+s9461312
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Objects-normal/i386/CoreDataTableViewController.o
+t2
+s0
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Objects-normal/i386/FlickrFetcher.o
+t2
+s0
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Objects-normal/i386/Photomania.LinkFileList
+c000000004FD613D10000000000000379
+t1339429841
+s889
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/PrecompiledHeaders/Photomania-Prefix-gkwvlcktlvacqocyajahcfbduryt/Photomania-Prefix.pch.pth
+t2
+s0
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app
+t2
+s0
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app.dSYM
+t2
+s0
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/Info.plist
+t2
+s0
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/Photomania
+t2
+s0
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/PkgInfo
+t2
+s0
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/Michael/Developer/iOS/Photomania/Photomania/AppDelegate.m
+c000000004FD613130000000000000804
+t1339429651
+s2052
+
+N/Users/Michael/Developer/iOS/Photomania/Photomania/CoreDataTableViewController.m
+c000000004EBAF32E00000000000019AE
+t1320874798
+s6574
+
+N/Users/Michael/Developer/iOS/Photomania/Photomania/FlickrFetcher.m
+c000000004EAACE390000000000000E68
+t1319816761
+s3688
+
+N/Users/Michael/Developer/iOS/Photomania/Photomania/Photomania-Prefix.pch
+c000000004FD613130000000000000143
+t1339429651
+s323
+
+N/Users/Michael/Developer/iOS/Photomania/Photomania/ViewController.m
+c000000004FD613130000000000000297
+t1339429651
+s663
+
+N/Users/Michael/Developer/iOS/Photomania/Photomania/en.lproj/InfoPlist.strings
+c000000004FD61313000000000000002D
+t1339429651
+s45
+
+N/Users/Michael/Developer/iOS/Photomania/Photomania/en.lproj/MainStoryboard.storyboard
+c000000004FD613D10000000000001DDC
+t1339429841
+s7644
+
+N/Users/Michael/Developer/iOS/Photomania/Photomania/main.m
+c000000004FD61313000000000000015E
+t1339429651
+s350
+
+NPhotomania/Photomania-Info.plist
+c000000004FD6131300000000000004D3
+t1339429651
+s1235
+
+CBuild AST from /Users/Michael/Developer/iOS/Photomania/Photomania/AppDelegate.m
+r0
+
+CBuild AST from /Users/Michael/Developer/iOS/Photomania/Photomania/CoreDataTableViewController.m
+r0
+
+CBuild AST from /Users/Michael/Developer/iOS/Photomania/Photomania/FlickrFetcher.m
+r0
+
+CBuild AST from /Users/Michael/Developer/iOS/Photomania/Photomania/ViewController.m
+r0
+
+CBuild AST from /Users/Michael/Developer/iOS/Photomania/Photomania/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0f27f0514b86b541^77f6f9514b86b541^---0#1#0#--18"Check dependencies36"1D6EDA1F-B4E9-461B-AEA4-1194C979A7C9-
+
+CCompileC DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Objects-normal/i386/AppDelegate.o /Users/Michael/Developer/iOS/Photomania/Photomania/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Objects-normal/i386/CoreDataTableViewController.o /Users/Michael/Developer/iOS/Photomania/Photomania/CoreDataTableViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Objects-normal/i386/FlickrFetcher.o /Users/Michael/Developer/iOS/Photomania/Photomania/FlickrFetcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Objects-normal/i386/ViewController.o /Users/Michael/Developer/iOS/Photomania/Photomania/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Objects-normal/i386/main.o /Users/Michael/Developer/iOS/Photomania/Photomania/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Users/Michael/Developer/iOS/Photomania/Photomania/en.lproj/MainStoryboard.storyboard
+r0
+
+CCopyStringsFile /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/en.lproj/InfoPlist.strings Photomania/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app.dSYM /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/Photomania
+r0
+
+CLd /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/Photomania normal i386
+r0
+
+CProcessInfoPlistFile /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/Info.plist Photomania/Photomania-Info.plist
+s361122642.041186
+e361122642.048260
+r1
+xProcessInfoPlistFile
+x/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/Info.plist
+xPhotomania/Photomania-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process Photomania/Photomania-Info.plistdaa80a524b86b541^a3e50c524b86b541^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/Michael/Developer/iOS/Photomania/Photomania/Photomania-Info.plist0000000000000000^776"ProcessInfoPlistFile DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/Info.plist Photomania/Photomania-Info.plist    cd /Users/Michael/Developer/iOS/Photomania    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Photomania/Photomania-Info.plist -genpkginfo /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app/Info.plist36"76BAEB87-1CB5-4E16-8D55-7E267896EDBA-
+
+CProcessPCH /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/PrecompiledHeaders/Photomania-Prefix-gkwvlcktlvacqocyajahcfbduryt/Photomania-Prefix.pch.pth Photomania/Photomania-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361122642.057001
+e361122644.628875
+r1
+xProcessPCH
+x/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/PrecompiledHeaders/Photomania-Prefix-gkwvlcktlvacqocyajahcfbduryt/Photomania-Prefix.pch.pth
+xPhotomania/Photomania-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile Photomania/Photomania-Prefix.pch583a0f524b86b541^f015a1544b86b541^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/Michael/Developer/iOS/Photomania/Photomania/Photomania-Prefix.pch0000000000000000^3673"ProcessPCH DerivedData/Photomania/Build/Intermediates/PrecompiledHeaders/Photomania-Prefix-gkwvlcktlvacqocyajahcfbduryt/Photomania-Prefix.pch.pth Photomania/Photomania-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Michael/Developer/iOS/Photomania    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Photomania-generated-files.hmap -I/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Photomania-own-target-headers.hmap -I/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Photomania-all-target-headers.hmap -iquote /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/Photomania-project-headers.hmap -I/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/include -I/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/DerivedSources/i386 -I/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/Photomania.build/Release-iphonesimulator/Photomania.build/DerivedSources -F/Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/PrecompiledHeaders/Photomania-Prefix-gkwvlcktlvacqocyajahcfbduryt/Photomania-Prefix.pch.dia -c /Users/Michael/Developer/iOS/Photomania/Photomania/Photomania-Prefix.pch -o /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/PrecompiledHeaders/Photomania-Prefix-gkwvlcktlvacqocyajahcfbduryt/Photomania-Prefix.pch.pth -MMD -MT dependencies -MF /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Intermediates/PrecompiledHeaders/Photomania-Prefix-gkwvlcktlvacqocyajahcfbduryt/Photomania-Prefix.pch.d36"E1F325D0-8BB6-48AC-8B3E-722DA0884E3F-
+
+CProcessPCH /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Index/PrecompiledHeaders/Photomania-Prefix-hcuqnveanuswygfiosmijbboxddj_ast/Photomania-Prefix.pch.pth Photomania/Photomania-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Michael/Developer/iOS/Photomania/DerivedData/Photomania/Build/Products/Release-iphonesimulator/Photomania.app
+r0
+
