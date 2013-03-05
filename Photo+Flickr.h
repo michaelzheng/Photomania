@@ -9,6 +9,6 @@
 #import "Photo.h"
 
 @interface Photo (Flickr)
-
+ 
 + (Photo *)photoWithFlickrInfo:(NSDictionary *)flickrInfo inManagedObjectContext:(NSManagedObjectContext *)context;
 @end
